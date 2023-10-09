@@ -5,4 +5,4 @@
 
 다음은 플레이 영상입니다. 보스까지 있으나 너무 오래 걸려서 중간에 잘랐습니다.
 
-[![Watch the video](https://youtu.be/L6N7MWSzqdA)](https://youtu.be/L6N7MWSzqdA)
+[![Watch the video](http://img.youtube.com/vi/L6N7MWSzqdA/0.jpg)](https://youtu.be/L6N7MWSzqdA)
